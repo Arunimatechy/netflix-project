@@ -216,25 +216,39 @@ This project helped me gain practical experience with:
 - Git & GitHub Workflow
 
 ---
-
 ## 📸 Screenshots
 
-### Home Page
+### 🏠 Home Page
 
-_Add Screenshot Here_
+![Home Page](screenshot/home-page.png)
 
-### Trending Movies
+Netflix-inspired landing page showcasing featured content and movie categories.
 
-_Add Screenshot Here_
+---
 
-### Movie Details
+### 🔥 Trending Movies
 
-_Add Screenshot Here_
+![Trending Movies](screenshot/trending-movies.png)
 
-### Mobile View
+Browse trending and popular movies fetched dynamically from the movie database API.
 
-_Add Screenshot Here_
+---
 
+### 🎬 Movie Details
+
+![Movie Details](screenshot/movie-details.png)
+
+View detailed information including ratings, release dates, overview, and movie posters.
+
+---
+
+### 📱 Mobile View
+
+![Mobile View](screenshot/mobile-view.png)
+
+Responsive mobile-friendly interface optimized for smaller screens and devices.
+
+---
 ---
 
 ## 🚀 Future Improvements
